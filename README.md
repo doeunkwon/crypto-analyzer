@@ -14,7 +14,7 @@ To get started with this project, follow these steps:
 - It's a good practice to use a virtual environment to manage dependencies. You can create one by running:
 
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    ```
 
 - Activate the virtual environment:
