@@ -10,16 +10,38 @@ To get started with this project, follow these steps:
 
 2. **Navigate to the project directory** in your terminal or command prompt.
 
-3. **Install the required packages** using pip. Run the following command:
+3. **(Optional) Create a virtual environment**:
+- It's a good practice to use a virtual environment to manage dependencies. You can create one by running:
+
+   ```bash
+   python -m venv venv
+   ```
+
+- Activate the virtual environment:
+   - On **Windows**:
+
+   ```bash
+   venv\Scripts\activate
+   ```
+
+   - On **macOS/Linux**:
+
+   ```bash
+   source venv/bin/activate
+   ```
+
+4. **Install the required packages** using pip. Run the following command:
 
    ```bash
    pip install -r requirements.txt
+   ```
 
-4.	Run the Jupyter Notebook:
+5.	**Run the Jupyter Notebook**:
 - Ensure you have Jupyter installed. If not, you can install it via pip:
 
   ```bash
   pip install notebook
+  ```
   
 - Launch Jupyter Notebook with the following command:
 
