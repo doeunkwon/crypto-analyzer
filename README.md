@@ -1,6 +1,6 @@
 # Cryptocurrency Price and News Analysis
 
-This project allows users to fetch and analyze the price history and recent news of various cryptocurrencies. By leveraging price data and news articles, the project utilizes a Generative Language Model (Gemini 1.5 Flash) to provide insights on the correlation between price movements and news events.
+This project allows users to choose a cryptocurrency, and it automatically fetches the relevant price history and news. It then uses the Gemini 1.5 Flash language model to analyze the data and provide insights into how news events might be influencing price movements.
 
 ## Installation
 
